@@ -1,8 +1,18 @@
-<style>
+
   h1 {
-    color: red;
-    font-size: 90pt;
+    color: pink;
+    font-size: 128;
+    font-family: Comic Sans MS;
   }
-  body {
-    background color: yellow;
-  }
+h2 {
+  color: pink;
+  font-size: 128;
+}
+h3 {
+  color: pink;
+  font-size: 128;
+  font-family: Comic Sans MS
+
+   body {
+          background-image: url("https://media1.tenor.com/images/584bb2b120144fb033725e459ece68a1/tenor.gif?itemid=7682653")
+      }
