@@ -1,30 +1,16 @@
 
   h1 {
-    color: blue;
+    color: pink;
     font-size: 128;
     font-family: Comic Sans MS;
   }
 h2 {
-  color: purple;
-  font-size: 24;
-  font-family: Comic Sans MS;
-}
-h3 {
-  color: red;
+  color: pink;
   font-size: 64;
   font-family: Comic Sans MS;
 }
-h4 {
-  color: pink;
-  font-family: Comic Sans MS;
-  font-size; 32;
-}
-a {
+h3 {
   color: blue;
-  font-size: 24;
+  font-size: 32;
   font-family: Comic Sans MS;
 }
-
-   body {
-     background-image: url("https://www.allkpop.com/upload/2018/02/af_org/05224856/bts.jpg");
-      }
